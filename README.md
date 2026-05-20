@@ -1,4 +1,6 @@
-# Healthcare-ML-Project
+# Healthcare ML Project
+<img width="1408" height="768" alt="Gemini_Generated_Image_xwpuwyxwpuwyxwpu" src="https://github.com/user-attachments/assets/8702c8c2-8440-4f4a-9190-f60b527ce7cc" />
+
 
 ## Introduction
 Modern healthcare facilities operate in high-pressure environments where efficient resource allocation directly impacts both patient outcomes and financial sustainability. Patient flow—the movement of patients through a healthcare facility from initial arrival to final discharge—is highly dynamic.
