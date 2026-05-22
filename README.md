@@ -17,6 +17,10 @@ By transforming reactive operational data into proactive clinical foresight, thi
 * Project Value: Helps hospital administration predict high-traffic periods, ensuring enough doctors/nurses are scheduled to minimize long delays.
 
 ## EDA(Elaborative Data Analysis) and observation
+* This dataset contains 9,216 patient records across 11 columns, consisting of 8 categorical variables, 2 integer variables, and 1 floating-point variable. While most of the columns are fully populated, there are significant data completeness issues with Department Referral having only 3,816 non-null entries and Patient Satisfaction Score missing nearly 73% of its records with only 2,517 entries. Looking at the numerical metrics, the patient population ranges from 1 to 79 years old with an average age of roughly 40, while patient wait times span between 10 and 60 minutes with an overall average of 35.2 minutes. Finally, for the portion of patients who did leave feedback, the recorded satisfaction scores range from 0 to 10, yielding a mediocre average rating of approximately 5 out of 10.
+* Univariate Analysis
+* Bivariate Analysis
+* Multivariate Analysis
 
 ## Feature Engineering
 
